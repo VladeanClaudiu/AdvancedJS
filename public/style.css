@@ -1,0 +1,27 @@
+body{
+	background: #2c3e50;
+	color: white;
+	font-family: sans-serif;
+	font-variant: small-caps;
+	font-size: 20px;
+}
+h1{
+	color: #e74c3c;
+	font-family: sans-serif;
+}
+span{
+	color: #9b59b6;
+}
+button{
+	padding-left: 20px;
+	padding-right:20px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	color: #e74c3c;
+	background: #34495e;
+	font-variant: small-caps;
+	font-family: sans-serif;
+	border-color: none;
+	margin-top: 40px;
+	z-index: -1;
+}
